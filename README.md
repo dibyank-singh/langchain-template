@@ -56,8 +56,9 @@ The **LangChain Template** addresses these challenges by providing:
    python main.py
 
  2. **Running with Docker**:
+    ```
     docker-compose up --build
-
+    ```
 
 
 ### Access the Application:
