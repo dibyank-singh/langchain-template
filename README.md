@@ -1,6 +1,6 @@
 # LangChain Template
 
-Welcome to the **LangChain Template** repository! This template is designed to help developers quickly get started with the LangChain framework, providing a modular and scalable foundation for building powerful language model-driven applications.
+Welcome to the **LangChain Template** repository! This template is designed to help developers quickly get started with the LangChain framework, providing a modular and scalable foundation for building powerful language model-driven applications
 
 ## Overview
 
